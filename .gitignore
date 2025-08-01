@@ -1,0 +1,10 @@
+**/vosk-model-en-us-0.22-lgraph/
+**/__pycache__/
+**/build/
+**/dist/
+**/img/
+*.spec
+*.exe
+*.zip
+*.mp3
+*.wav
